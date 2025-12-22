@@ -1,0 +1,174 @@
+{
+  "project_dir": "C:/Users/Hoge/Documents/Annotation_Automation_Tool/MyProject",
+  "image_dir": "C:/Users/Hoge/Documents/Annotation_Automation_Tool/test_images",
+  "labels_dir": "C:\\Users\\Hoge\\Documents\\Annotation_Automation_Tool\\labels",
+  "current_image_index": 0,
+  "boxes": {
+    "0": {
+      "coords": [
+        724,
+        1464,
+        1268,
+        1824
+      ],
+      "class_id": 5,
+      "items": {
+        "box": 260,
+        "text": 261,
+        "index_bg": 262,
+        "index_text": 263
+      }
+    },
+    "1": {
+      "coords": [
+        726,
+        1474,
+        1266,
+        1818
+      ],
+      "class_id": 7,
+      "items": {
+        "box": 264,
+        "text": 265,
+        "index_bg": 266,
+        "index_text": 267
+      }
+    },
+    "2": {
+      "coords": [
+        441,
+        1549,
+        669,
+        2055
+      ],
+      "class_id": 0,
+      "items": {
+        "box": 268,
+        "text": 269,
+        "index_bg": 270,
+        "index_text": 271
+      }
+    },
+    "3": {
+      "coords": [
+        38,
+        1599,
+        604,
+        2256
+      ],
+      "class_id": 0,
+      "items": {
+        "box": 272,
+        "text": 273,
+        "index_bg": 274,
+        "index_text": 275
+      }
+    },
+    "4": {
+      "coords": [
+        2837,
+        1676,
+        3189,
+        1801
+      ],
+      "class_id": 2,
+      "items": {
+        "box": 276,
+        "text": 277,
+        "index_bg": 278,
+        "index_text": 279
+      }
+    },
+    "5": {
+      "coords": [
+        2078,
+        1729,
+        2917,
+        2106
+      ],
+      "class_id": 2,
+      "items": {
+        "box": 280,
+        "text": 281,
+        "index_bg": 282,
+        "index_text": 283
+      }
+    }
+  },
+  "undo_stack": [
+    {
+      "0": {
+        "coords": [
+          724,
+          1464,
+          1268,
+          1824
+        ],
+        "class_id": 5,
+        "items": {}
+      },
+      "1": {
+        "coords": [
+          726,
+          1474,
+          1266,
+          1818
+        ],
+        "class_id": 7,
+        "items": {}
+      },
+      "2": {
+        "coords": [
+          441,
+          1549,
+          669,
+          2055
+        ],
+        "class_id": 0,
+        "items": {}
+      },
+      "3": {
+        "coords": [
+          38,
+          1599,
+          604,
+          2256
+        ],
+        "class_id": 0,
+        "items": {}
+      },
+      "4": {
+        "coords": [
+          2837,
+          1676,
+          3189,
+          1801
+        ],
+        "class_id": 2,
+        "items": {}
+      },
+      "5": {
+        "coords": [
+          2078,
+          1729,
+          2917,
+          2106
+        ],
+        "class_id": 2,
+        "items": {}
+      }
+    }
+  ],
+  "redo_stack": [],
+  "approval_status": {
+    "001.jpg": "rejected",
+    "002.jpg": "rejected"
+  },
+  "options": {
+    "line_width": 2,
+    "font_size": 12,
+    "log_lines": 0,
+    "target_count": 0,
+    "progress_style": "bar"
+  }
+}

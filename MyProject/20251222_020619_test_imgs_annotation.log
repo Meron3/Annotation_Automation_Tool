@@ -1,9 +1,0 @@
-[02:06:19] 表示中: C:/Users/Kawai_Lab/Documents/Annotation_Automation_Tool/test_imgs\001.jpg
-[02:06:20] モード開始: annotation (対象: 2枚)
-[02:06:25] ボックスを削除しました。
-[02:06:37] 自動保存間隔を 5分 に設定しました。
-[02:07:15] アノテーション保存: C:\Users\Kawai_Lab\Documents\Annotation_Automation_Tool\labels\001.txt
-[02:07:15] 表示中: C:/Users/Kawai_Lab/Documents/Annotation_Automation_Tool/test_imgs\002.jpg
-[02:07:29] アノテーション保存: C:\Users\Kawai_Lab\Documents\Annotation_Automation_Tool\labels\002.txt
-[02:07:31] プロジェクトを途中保存しました: C:/Users/Kawai_Lab/Documents/Annotation_Automation_Tool/MyProject\.test_imgs_session.json
-[02:07:32] アノテーション保存: C:\Users\Kawai_Lab\Documents\Annotation_Automation_Tool\labels\002.txt
