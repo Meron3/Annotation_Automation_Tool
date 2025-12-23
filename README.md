@@ -3,7 +3,7 @@
 Python (Tkinter/CustomTkinter) で動作する、YOLOv8を組み込んだ画像アノテーションツール自動化ツールです。YOLOによってバウンディングボックスを自動で設置するアノテーション機能に加え、**1. アノテーション → 2. 承認(Review) → 3. 修正(Fix) → 4. 再承認**(3, 4はループ可)の機能を実装しています。
 
 詳細は以下の記事をお読みください。
-
+https://qiita.com/Meron3/items/716c93ec30ea383647df
 
 ![image.png](https://qiita-image-store.s3.ap-northeast-1.amazonaws.com/0/3938248/b9ac1084-7b5b-482f-8cad-aa3a05045fad.png)
 ## 主な機能
